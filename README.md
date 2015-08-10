@@ -1,3 +1,4 @@
+[![Project status](https://img.shields.io/badge/Project%20Status-Complete-brightgreen.svg)](#status)
 catsinspace
 ===========
 
