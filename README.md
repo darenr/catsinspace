@@ -4,4 +4,6 @@ catsinspace
 
 mobile/desktop floating cats. Best experienced on a mobile device.
 
+**Note:** since Safari on iOS blocked access to the accelerometer this demo is no longer functional on mobile, a sad day indeed.
+
 Demo http://darenr.github.io/catsinspace/
